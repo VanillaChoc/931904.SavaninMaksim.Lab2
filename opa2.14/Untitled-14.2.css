@@ -1,0 +1,54 @@
+
+.RELA{
+    color: black;
+    background-color: bisque;
+    width: 25%;
+    height:70px;
+    padding-top: 10px;
+    float: left;   
+}
+.RELA1{
+    
+    color: black;
+    background-color: bisque;
+    margin:18px 0 18px 0; 
+    padding-left: 40px;
+}
+.RELA33{
+    display: inline-block;
+    color: black;
+    background-color: darkgray;
+    max-width:100%;
+}
+.RELA2{
+    border: 2px solid darkgreen;
+    background-color: aqua;
+    
+}
+.RELA22{
+    border: 2px solid darkgreen;
+    background-color: aqua;
+    
+}
+.RELA3{
+    display: inline-block;
+    color: black;
+    background-color: darkgray;
+    width: calc(100% - 25%);
+}
+p{
+    margin: 0;
+}
+ul{
+    margin:0;
+}
+@media screen and (max-width: 700px) {
+    div.RELA2 { 
+        display: none;
+   }
+}
+@media screen and (min-width: 700px) {
+    div.RELA22 { 
+        display: none;
+   }
+}

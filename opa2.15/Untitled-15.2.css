@@ -1,0 +1,17 @@
+
+body{
+    margin: 10px;
+}
+.BOX{
+    background-color: aqua;
+    color: black;
+    min-width: 180px;
+    min-height: 90px;
+    margin: 15px;
+    display: inline-block;
+}
+.STC{
+    background-color: bisque;
+    color: black;
+    
+}

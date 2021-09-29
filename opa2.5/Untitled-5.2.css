@@ -1,0 +1,19 @@
+.BACK{
+    background-color: green;
+    color: white;
+    max-width: 500px;
+    border-bottom: 20px solid;
+    border-top: 20px solid;
+    border-left : 60px solid;
+    border-right : 60px solid;
+    margin: auto;
+} 
+
+.BACK2{
+    background-color: blue;
+    color: white;
+    max-width: 500px;
+    padding: 60px;
+    margin: auto;
+      
+}

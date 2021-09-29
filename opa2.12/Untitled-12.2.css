@@ -1,0 +1,36 @@
+
+.RELA{
+    
+    color: black;
+    background-color: bisque;
+  
+    width: 25%;
+    height:70px;
+    padding-top: 10px;
+    float: left;
+    margin-right: 5px;
+    
+}
+.RELA2{
+    border: 2px solid darkgreen;
+    background-color: aqua;
+    
+}
+.RELA3{
+    display: inline-block;
+    color: black;
+    background-color: darkgray;
+    width: calc(75% - 10px);
+    min-width: 400px;
+ 
+    margin-right: 5px;
+    
+
+}
+
+p{
+    margin: 0;
+}
+ul{
+    margin:0;
+}

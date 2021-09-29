@@ -1,0 +1,14 @@
+.BACK{
+    background-color: aqua;
+    max-width: 100%;
+    color: black;  
+    min-height: 265px;
+    border: 2px solid;
+    border-color: darkgreen;     
+}
+.XOM{
+    float: right;
+    position: relative;
+
+}
+

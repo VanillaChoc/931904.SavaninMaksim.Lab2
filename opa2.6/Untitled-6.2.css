@@ -1,0 +1,17 @@
+.BACK{
+    
+    color: black;
+    max-width: 520px;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+} 
+
+.BACK2{
+    color: black;
+    max-width: 400px;
+    margin: auto;
+    border: 10px solid;
+    border-color: blue;
+    padding: 50px;
+}

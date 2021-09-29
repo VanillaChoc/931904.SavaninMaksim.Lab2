@@ -1,0 +1,36 @@
+
+.RELA{
+    position: absolute;
+    color: black;
+    background-color: bisque;
+    width: 160px;
+    height:90px;
+    z-index: 999;
+    
+}
+.RELA2{
+    position: relative;
+    background-color: aqua;
+    max-width: 100%;
+    
+
+}
+.RELA3{
+    position: relative;
+    color: black;
+    background-color: darkgray;
+    margin-left:160px;
+
+}
+.FIX{
+    position: fixed; 
+    background-color: limegreen;
+    width: 100%;
+    height:60px;
+    bottom:0;
+    right:0;
+    z-index: 1000;
+}
+p{
+    margin: 0;
+}
